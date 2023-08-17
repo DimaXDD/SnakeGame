@@ -16,19 +16,14 @@ To run SnakeGame, you'll need:
 
 ### Getting Started
 
+### Функции администратора сервиса:
 1. Clone the repository:
-
-	git clone https://github.com/DimaXDD/SnakeGame.git
-
+	git clone https://github.com/DimaXDD/SnakeGame.git;
 2. Navigate to the project directory:
-
-	cd SnakeGame
-
-
+	cd SnakeGame;
 3. Compile and run the game:
-
 	javac SnakeGame.java
-	java SnakeGame
+	java SnakeGame.
 
 ## Controls
 
