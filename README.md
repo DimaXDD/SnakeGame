@@ -9,20 +9,19 @@ To run SnakeGame, you'll need:
 ### Getting Started
  1. Clone the repository:
 ```Git
-	git clone https://github.com/DimaXDD/SnakeGame.git
+git clone https://github.com/DimaXDD/SnakeGame.git
 ```
-* data source=<имя сервера БД>;initial catalog=<название базы данных>;<br>
- 2. Navigate to the project directory:
+ 2. Navigate to the root project directory:
 ```Git
-	cd SnakeGame
+cd src
 ```
  3. Compile and run the game:
 ```Git
-	javac SnakeGame.java
-	java SnakeGame
+javac SnakeGame.java
+java SnakeGame
 ```
 ## Controls
-- Control the snake using arrow keys: up, down, left, right.
+Control the snake using arrow keys: up, down, left, right.
 
 ## Contributing
 If you'd like to contribute to SnakeGame, follow these steps:
@@ -32,4 +31,4 @@ If you'd like to contribute to SnakeGame, follow these steps:
 3. Submit a pull request describing the changes.
 
 ## Contact
-Feel free to reach out to me through GitHub if you have any questions or suggestions.
+Feel free to reach out to me through GitHub of [Telegram](https://t.me/DimaTru) if you have any questions or suggestions.
